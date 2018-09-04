@@ -3,4 +3,5 @@
 
 ![Spotify](https://images.cdn.whathifi.com/sites/whathifi.com/files/styles/big-image/public/brands/news/2016-aug/spotify-logo-new.jpg?itok=OTlubG2w)
 
+Desktop and mobile clone of the spotify web page. 
 
